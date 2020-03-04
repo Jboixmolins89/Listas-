@@ -73,12 +73,12 @@ ul.lista4 li {
   margin: 0;
   padding: 0.5em 0;
   background-color: white;
-  color: #3366CC;
+  color: aqua;
   font-weight: bold;
 }
 
 ul.lista4 li.par {
-  background-color: #3366CC;
+  background-color: blue;
   color: white;
 }
 
